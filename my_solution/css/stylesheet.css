@@ -28,7 +28,7 @@ h1{
      background-color: grey;
      width: 580px;  
      height: 300px;
-     border: 1px solid black;
+     border: 2px solid black;
      margin: 20px 20px 20px 20px;
      line-height: 22px;
      float: left;
@@ -40,7 +40,7 @@ h1{
 
      width: 580px;
      height: 300px;
-     border: 1px solid black;
+     border: 2px solid black;
      margin: 20px 20px 20px 20px;
      line-height: 22px;
      float: left;
@@ -51,7 +51,7 @@ h1{
      background-color: gray;
      width: 580px;
      height: 300px;
-     border: 1px solid black;
+     border: 2px solid black;
      margin: 20px 20px 20px 20px;
      line-height: 22px;
      float: left;
@@ -81,7 +81,7 @@ h1{
      background-color: red;
      height: 50px;
      width: 150px;
-     border: 1px solid black;
+     border: 2px solid black;
 
 }
 #head3{
@@ -89,7 +89,7 @@ h1{
      background-color: beige;
      height: 50px;
      width: 150px;
-     border: 1px solid black;
+     border: 2px solid black;
 }
 @media(min-width:992px) {
      #s1{
